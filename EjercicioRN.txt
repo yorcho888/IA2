@@ -1,0 +1,6 @@
+1.-Red Neuronal Profunda (DNN) con Aprendizaje por Refuerzo sus Partes son: los Inputs, capas escondidas y sus outputs
+2.-sus patrones a utilizar pueden ser, movimientos disponibles, lugares disponibles, estado del juego, salida de Red y aprendizaje de la red neunoral/entrenamiento, también patrones numericos, de movimiento
+3.- ReLu, esta ayuda a aprender mejor los movimientos
+4.-son máximo 3, 0 para lugar vacio1 ficha del enemigo y 2 ficha mia 
+5-el analisis de los movimientos, movimiento rival, probabilidad
+6-0.5
